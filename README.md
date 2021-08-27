@@ -1,0 +1,1 @@
+Olá, este repositório é para o envio das tarefas (labs) da disciplina de MC536 - Banco de Dados com o professor Santanché.
