@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab04 - SQL Avançado (NHANES e Taxonomia)
+# Lab04 - SQL Avançado (NHANES e Taxonomia)
 
 Estrutura de pastas:
 
@@ -11,7 +11,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `216213`: `Gabriel Dourado Seabra`
+* 216213: Gabriel Dourado Seabra
 
 ## Tarefa sobre Consultas SQL no NHANES
 
