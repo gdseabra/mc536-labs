@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab04 - SQL Avançado (NHANES e Taxonomia)
+# Lab04 - SQL Avançado (NHANES e Taxonomia)
 
 Estrutura de pastas:
 
@@ -11,10 +11,8 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `216213`: `Gabriel Dourado Seabra`
+* 216213: Gabriel Dourado Seabra
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`. Seu notebook deve fazer referência à sua pasta data.
->
-> O seu notebook deve ser configurado para acessar os dados do NHANES que estão na pasta `data` do seu lab.
+> https://github.com/gdseabra/mc536-labs/blob/main/lab04/notebook/lab04-sql-advanced.ipynb
